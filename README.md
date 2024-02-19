@@ -24,9 +24,7 @@ Lord of Large Language Models (LoLLMs) Server is a text generation server based 
 - Real-time text generation with WebSocket-based communication.
 - RESTful API for listing personalities and adding new personalities.
 - Easy integration with various applications and frameworks.
-- Possibility to send files to personalities
-- Possibility to run on multiple nodes and provide a generation service to many outputs at once.
-- Data stays local even in the remote version. Only generations are sent to the host node. The logs, data and discussion history are kept in your local disucssion folder.
+- Possibility to send files to personalitie
 
 ## Installation
 
